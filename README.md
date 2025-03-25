@@ -72,7 +72,7 @@ We welcome contributions! Please follow these steps:
 4. Push to your fork and create a Pull Request
 
 ## 📧 Contact
-For inquiries, reach out to [your.email@example.com] or open an issue on GitHub.
+For inquiries, reach out to [adityamore18706@gmail.com] or open an issue on GitHub.
 
 ---
 _Developed by **404NotFound** - Indian Institute of Petroleum and Energy (IIPE)_
