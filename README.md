@@ -15,7 +15,7 @@ Chemical researchers face significant challenges due to fragmented research data
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js (for interactive UI)
-- **Backend:** FastAPI (for AI model serving)
+- **Backend:** Python (for AI model serving)
 - **AI Models:** Graph Neural Networks (GNNs), NLP-based literature analysis
 - **Database:** PostgreSQL (for structured data storage)
 - **Infrastructure:** Google Cloud, Docker, Kubernetes
